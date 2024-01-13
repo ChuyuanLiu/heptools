@@ -1,17 +1,5 @@
 [project]
-name = "heptools"
-version = "0.3.2"
+name = "heptools-stable"
+version = "0.0.0"
 requires-python = ">=3.10"
-dependencies = [
-    "rich",
-    "numpy",
-    "matplotlib",
-    "dask-jobqueue",
-# Scikit-HEP
-    "awkward",
-    "uproot",
-    "hist",
-# CMS
-    "coffea",
-    "correctionlib",
-]
+dependencies = []
